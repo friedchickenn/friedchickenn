@@ -16,11 +16,19 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ayyow%Whatssap&fontSize=65&fontColor=auto" />
 </p>
-<iframe src="https://giphy.com/embed/q217GUnfKAmJlFcjBX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-demon-slayer-kimetsu-no-yaiba-xbox-series-x-q217GUnfKAmJlFcjBX">via GIPHY</a></p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=friedchickenn&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=friedchickenn&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=friedchickenn&show_icons=true" />
+</picture>
 
-<h2> 🚀  Beberapa Alat yang Telah Saya Gunakan dan Pelajari</h2> 
-<p align="left"> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/ vscode-original.svg " alt="vscode" width="45" height="45"/> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html- original.svg " alt="html" width="45" height="45"/> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original. svg " alt="css" width="45" height="45"/> 
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friedchickenn&layout=compact)
+
+![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
+
