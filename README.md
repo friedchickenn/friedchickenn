@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"> 
-  <img src=" https://capsule-render.vercel.app/api?text=Hai Semuanya!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ayyow%Whatssap&fontSize=65&fontColor=auto" />
 </p>
-
-<a href=" https://www.instagram.com/erikayanti26/ ">   <img height="50" src=" https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c -b14e-81f0a3f83a06.png "/> </a>
+<iframe src="https://giphy.com/embed/q217GUnfKAmJlFcjBX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-demon-slayer-kimetsu-no-yaiba-xbox-series-x-q217GUnfKAmJlFcjBX">via GIPHY</a></p>
 
 <h2> 🚀  Beberapa Alat yang Telah Saya Gunakan dan Pelajari</h2> 
 <p align="left"> 
@@ -25,4 +24,3 @@ Here are some ideas to get you started:
 <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html- original.svg " alt="html" width="45" height="45"/> 
 <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original. svg " alt="css" width="45" height="45"/> 
 </p>
-![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
