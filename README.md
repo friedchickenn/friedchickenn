@@ -14,16 +14,21 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=100&section=header&text=AnnyeongYeorobuun!🕹️&fontSize=50&fontColor=auto" />
 </p>
-
+<h4 align="center"> ✨ About Me ✨ </h4>
+<p align="center">
+  Anyyeong annyeong gaes perkenalkan nama akuh Erika Yanti. Udah itu aja soalnya privasi. Hehe😄
+</p>
 <h4 align="center"> ⚡ My Github History ⚡ </h4>
-<p position="absolut">
+
+<p align="center">
   <a href="https://github.com/friedchickenn/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=friedchickenn&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=friedchickenn&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=friedchickenn&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=friedchickenn&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 </p>
+
 
 <h4 align="center"> 📫 You Can Text Me Everytime 📫 </h4>
 <p align="center">
