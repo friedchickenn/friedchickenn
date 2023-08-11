@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ayyow%Whatssap&fontSize=65&fontColor=auto" />
 </p>
 
-![kucing ilmuan github](https://github.com/friedchickenn/friedchickenn/assets/119124296/b165eef6-623c-40ff-9aad-45712bafc56f)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=friedchickenn&show_icons=true&theme=dracula"
