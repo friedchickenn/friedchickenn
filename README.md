@@ -37,7 +37,9 @@ Here are some ideas to get you started:
   <a href=" https://www.facebook.com/profile.php?id=100041683242086 "> <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-network-linear-color/100/Facebook-512.png"/> </a>
   <a href=" https://wa.me/qr/KD7CFQOUVQQHM1 "> <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-network-linear-color/100/Whatsapp-512.png"/> </a>
 </p>
-
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=100&section=footer&fontSize=50&fontColor=auto" />
+</p>
 
 
 
