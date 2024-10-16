@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 </p>
 <h4 align="center"> ✨ About Me ✨ </h4>
 <p align="center">
-  Anyyeong annyeong gaes perkenalkan nama akuh Erika Yanti. Udah itu aja Hehe😄
+  hahahha hehehhe hihihhi hohohho😄
 </p>
 <h4 align="center"> ⚡ My Github History ⚡ </h4>
 
