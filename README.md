@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h4 align="center"> ✨ About Me ✨ </h4>
 <p align="center">
   hahahha hehehhe hihihhi hohohho😄
+  tolooong saya pemulaa jangan di roasting😭😭😭
 </p>
 <h4 align="center"> ⚡ My Github History ⚡ </h4>
 
