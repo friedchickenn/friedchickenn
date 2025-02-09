@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 <h4 align="center"> 📫 You Can Text Me Everytime 📫 </h4>
 <p align="center">
-  <a href="https://www.instagram.com/erykthvren/"><img height="50" src="https://cdn3.iconfinder.com/data/icons/social-network-linear-color/100/Intagram-512.png"/></a>
+  <a href="https://www.instagram.com/erykthvren/"><img height="50" src="![image](https://github.com/user-attachments/assets/a2389fe0-ac0c-408b-80f1-aa4b458bb04f)
+"/></a>
   <a href="https://www.linkedin.com/in/erika-yanti-6a11a321a"> <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-network-linear-color/100/LinkedIn-512.png"/></a>
   <a href="https://www.facebook.com/profile.php?id=100041683242086"><img height="50" src="https://cdn3.iconfinder.com/data/icons/social-network-linear-color/100/Facebook-512.png"/></a>
   <a href="https://wa.me/qr/KD7CFQOUVQQHM1"> <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-network-linear-color/100/Whatsapp-512.png"/></a>
