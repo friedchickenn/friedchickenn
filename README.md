@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h4 align="center"> ✨ Motto hidup ✨ </h4>
 <p align="center">
-  "Kode boleh ngaco, yang penting jalan. Kalau nggak jalan, tanya AI. Kalau AI bingung, yaudah revisi hidup." 😭😆
+  "Kode boleh ngaco, yang penting jalan. Kalau nggak jalan, tanya AI. Kalau AI bingung, yaudah ADA ADA JI ITUU." 😭
 </p>
 
 <h4 align="center"> ⚡ My Github History ⚡ </h4>
