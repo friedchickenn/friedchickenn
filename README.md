@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 </p>
 <h4 align="center"> ✨ About Me ✨ </h4>
 <p align="center">
- 👋 Halo, saya Erika Yanti, biasa dipanggil Erik! Mahasiswa Teknik Informatika yang lebih banyak ngobrol sama ChatGPT dan DeepSeek daripada manusia asli.
+ 👋 Halo, saya Erika Yanti, biasa dipanggil Erik! Mahasiswa Teknik Informatika yang lebih banyak ngobrol sama ChatGPT dan DeepSeek daripada manusia asli. Spesialis dalam menulis kode yang bahkan saya sendiri nggak ngerti setelah 5 menit. Kalau koding lancar, itu keajaiban. Kalau error, itu sudah takdir.
 </p>
+
+<h4 align="center"> ✨ Motto hidup ✨ </h4>
 <p align="center">
-  Kalau koding lancar, itu keajaiban. Kalau error, itu sudah takdir.
+  "Kode boleh ngaco, yang penting jalan. Kalau nggak jalan, tanya AI. Kalau AI bingung, yaudah revisi hidup." 😭😆
 </p>
-<p align="center">
-  Motto hidup: "Kode boleh ngaco, yang penting jalan. Kalau nggak jalan, tanya AI. Kalau AI bingung, yaudah revisi hidup." 😭😆
-</p>
-</p>
+
 <h4 align="center"> ⚡ My Github History ⚡ </h4>
 
 <p align="center">
