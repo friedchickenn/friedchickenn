@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=100&section=header&text=AnnyeongYeorobuun!👋&fontSize=50&textColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=100&section=header&text=Ayyow Wassapp Maann!🤟&fontSize=50&textColor=white" />
 </p>
 <h4 align="center"> ✨ About Me ✨ </h4>
 <p align="center">
