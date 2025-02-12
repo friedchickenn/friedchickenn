@@ -43,6 +43,9 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/profile.php?id=100041683242086"><img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-64.png"/></a>
   <a href="https://discord.com/users/862331788529762314"> <img height="30" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-64.png"/></a>
 </p>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=100&section=footer&fontSize=50&fontColor=auto" />
 </p>
