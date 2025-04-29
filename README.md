@@ -43,9 +43,6 @@ Here are some ideas to get you started:
   <a href="https://discord.com/users/862331788529762314"> <img height="40" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-64.png"/></a>
 </p>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/friedchickenn&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Count"/>
-</p>
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=100&section=footer&fontSize=50&fontColor=auto" />
