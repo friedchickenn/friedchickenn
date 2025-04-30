@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 </p>
 <h4 align="center"> ✨ About Me ✨ </h4>
 <p align="center">
- 👋 Halo, saya Erika Yanti, biasa dipanggil Erik! Mahasiswa Teknik Informatika yang lebih banyak ngobrol sama ChatGPT dan DeepSeek daripada manusia asli. Spesialis dalam menulis kode yang bahkan saya sendiri nggak ngerti. Kalau koding lancar, itu keajaiban. Kalau error, itu sudah takdir.
+ 👋 Hi, I'm Erika Yanti, usually called Erik! An Informatics Engineering student who talks more with ChatGPT and DeepSeek than real people. Specializing in writing codes that even I don't understand. If the coding is smooth, it's a miracle. If there is an error, it's fate.
 </p>
 
 <h4 align="center"> 🔧 Motto 🔧 </h4>
 <p align="center">
-  "Kode boleh ngaco, yang penting jalan. Kalau nggak jalan, tanya AI. Kalau AI bingung, ADA ADA JI ITU."
+  "live to die."
 </p>
 
 <h4 align="center"> ⚡ My Github History ⚡ </h4>
