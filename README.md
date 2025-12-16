@@ -35,12 +35,6 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<h4 align="center"> 📫 You Can Text Me Everytime 📫 </h4>
-<p align="center">
- <a href="https://www.instagram.com/erykthvren/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-64.png"/></a>
-  <a href="https://www.linkedin.com/in/erika-yanti-6a11a321a"> <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png"/></a>
-</p>
-
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=100&section=footer&fontSize=50&fontColor=auto" />
